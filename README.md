@@ -1,4 +1,4 @@
-# x86assembly-playground
+# assembly-playground
 
 ## Building on Linux or in WSL
 
